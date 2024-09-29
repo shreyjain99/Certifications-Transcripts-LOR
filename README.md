@@ -18,7 +18,6 @@
         <li><a href="">Oracle SQL Explorer MyLearn Badge</a></li>
         <li><a href="">Sequence Models by Deeplearning.ai</a></li>
         <li><a href="">Sequence, Time Series and Prediction by Deeplearning.ai</a></li>
-        <li><a href=""></a></li>
         <li><a href="">Structuring Machine Learning Projects by Deeplearning.ai</a></li>
         <li><a href="">The Bits and Bytes of Computer Networking by Google</a></li>
         <li><a href="">Transcipts - Mumbai University - Bachelor of Engineering</a></li>
