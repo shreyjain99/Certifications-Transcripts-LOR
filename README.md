@@ -31,18 +31,18 @@
 
 
 
- <li><a href="#">Data Modeling in Power BI by Microsoft</a></li> 
-      <li><a href="#">Extract, Transform and Load Data in Power BI by Microsoft</a></li> 
-      <li><a href="#">Harnessing the Power of Data with Power BI by Microsoft</a></li> 
-      <li><a href="#">Preparing Data for Analysis with Microsoft Excel by Microsoft</a></li> 
-      <li><a href="#">Intro to Snowflake for Devs, Data Scientists, Data Engineers by Snowflake</a></li> 
-      <li><a href="#">AWS Fundamentals Specialization by AWS</a></li> 
-      <li><a href="#">Migrating to the AWS Cloud by AWS</a></li> 
-      <li><a href="#">AWS Cloud Technical Essentials by AWS</a></li> 
-      <li><a href="#">Introduction to Machine Learning on AWS by AWS</a></li> 
-      <li><a href="#">Introduction to Big Data with Spark and Hadoop by IBM</a></li> 
-      <li><a href="#">Operating Systems and You Becoming a Power User by Google</a></li> 
-      <li><a href="#">Alteryx for Beginners by Packt</a></li>  
+<li><a href="https://github.com/shreyjain99/Certifications-Transcripts-LOR/blob/main/Data%20Modeling%20in%20Power%20BI%20by%20Microsoft.pdf">Data Modeling in Power BI by Microsoft</a></li> 
+<li><a href="https://github.com/shreyjain99/Certifications-Transcripts-LOR/blob/main/Extract,%20Transform%20and%20Load%20Data%20in%20Power%20BI%20by%20Microsoft.pdf">Extract, Transform and Load Data in Power BI by Microsoft</a></li> 
+<li><a href="https://github.com/shreyjain99/Certifications-Transcripts-LOR/blob/main/Harnessing%20the%20Power%20of%20Data%20with%20Power%20BI%20by%20Microsoft.pdf">Harnessing the Power of Data with Power BI by Microsoft</a></li> 
+<li><a href="https://github.com/shreyjain99/Certifications-Transcripts-LOR/blob/main/Preparing%20Data%20for%20Analysis%20with%20Microsoft%20Excel.pdf">Preparing Data for Analysis with Microsoft Excel by Microsoft</a></li> 
+<li><a href="https://github.com/shreyjain99/Certifications-Transcripts-LOR/blob/main/Intro%20to%20Snowflake%20for%20Devs,%20Data%20Scientists,%20Data%20Engineers.pdf">Intro to Snowflake for Devs, Data Scientists, Data Engineers by Snowflake</a></li> 
+<li><a href="https://github.com/shreyjain99/Certifications-Transcripts-LOR/blob/main/AWS%20Fundamentals%20Specialization.pdf">AWS Fundamentals Specialization by AWS</a></li> 
+<li><a href="https://github.com/shreyjain99/Certifications-Transcripts-LOR/blob/main/Migrating%20to%20the%20AWS%20Cloud.pdf">Migrating to the AWS Cloud by AWS</a></li> 
+<li><a href="https://github.com/shreyjain99/Certifications-Transcripts-LOR/blob/main/AWS%20Cloud%20Technical%20Essentials.pdf">AWS Cloud Technical Essentials by AWS</a></li> 
+<li><a href="https://github.com/shreyjain99/Certifications-Transcripts-LOR/blob/main/Introduction%20to%20Machine%20Learning%20on%20AWS.pdf">Introduction to Machine Learning on AWS by AWS</a></li> 
+<li><a href="https://github.com/shreyjain99/Certifications-Transcripts-LOR/blob/main/Introduction%20to%20Big%20Data%20with%20Spark%20and%20Hadoop.pdf">Introduction to Big Data with Spark and Hadoop by IBM</a></li> 
+<li><a href="https://github.com/shreyjain99/Certifications-Transcripts-LOR/blob/main/Operating%20Systems%20and%20You,%20Becoming%20a%20Power%20User.pdf">Operating Systems and You Becoming a Power User by Google</a></li> 
+<li><a href="https://github.com/shreyjain99/Certifications-Transcripts-LOR/blob/main/Alteryx%20for%20Beginners.pdf">Alteryx for Beginners by Packt</a></li> 
   </ul>
 
 
