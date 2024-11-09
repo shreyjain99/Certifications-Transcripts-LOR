@@ -32,7 +32,7 @@
 
 
 <li><a href="https://github.com/shreyjain99/Certifications-Transcripts-LOR/blob/main/Data%20Modeling%20in%20Power%20BI%20by%20Microsoft.pdf">Data Modeling in Power BI by Microsoft</a></li> 
-<li><a href="https://github.com/shreyjain99/Certifications-Transcripts-LOR/blob/main/Extract,%20Transform%20and%20Load%20Data%20in%20Power%20BI%20by%20Microsoft.pdf">Extract, Transform and Load Data in Power BI by Microsoft</a></li> 
+<li><a href="https://github.com/shreyjain99/Certifications-Transcripts-LOR/blob/main/Extract%2C%20Transform%20and%20Load%20Data%20in%20Power%20BI%20by%20Microsoft.pdf">Extract, Transform and Load Data in Power BI by Microsoft</a></li> 
 <li><a href="https://github.com/shreyjain99/Certifications-Transcripts-LOR/blob/main/Harnessing%20the%20Power%20of%20Data%20with%20Power%20BI%20by%20Microsoft.pdf">Harnessing the Power of Data with Power BI by Microsoft</a></li> 
 <li><a href="https://github.com/shreyjain99/Certifications-Transcripts-LOR/blob/main/Preparing%20Data%20for%20Analysis%20with%20Microsoft%20Excel.pdf">Preparing Data for Analysis with Microsoft Excel by Microsoft</a></li> 
 <li><a href="https://github.com/shreyjain99/Certifications-Transcripts-LOR/blob/main/Intro%20to%20Snowflake%20for%20Devs,%20Data%20Scientists,%20Data%20Engineers.pdf">Intro to Snowflake for Devs, Data Scientists, Data Engineers by Snowflake</a></li> 
