@@ -27,5 +27,25 @@
         <li><a href="https://github.com/shreyjain99/Certifications-Transcripts-LOR/blob/main/Letter%20of%20Recommendation%20by%20Professor%20Amit%20Hatekar.pdf">Letter of Recommendation by Professor Amit Hatekar</a></li>
         <li><a href="https://github.com/shreyjain99/Certifications-Transcripts-LOR/blob/main/Letter%20of%20Recommendation%20by%20Professor%20Anuradha%20Rao.pdf">Letter of Recommendation by Professor Anuradha Rao</a></li>
         <li><a href="https://github.com/shreyjain99/Certifications-Transcripts-LOR/blob/main/Extra%20Curricular%20and%20Social%20Service%20Certificates.pdf">Extra Curricular and Social Service Certificates</a></li>
-        <li><a href="https://github.com/shreyjain99/Certifications-Transcripts-LOR/blob/main/Program%20Mentor%20to%20new%20students%20Certificate.pdf">Program Mentor to new students Certificate</a></li>        
+        <li><a href="https://github.com/shreyjain99/Certifications-Transcripts-LOR/blob/main/Program%20Mentor%20to%20new%20students%20Certificate.pdf">Program Mentor to new students Certificate</a></li>   
+
+
+
+ <li><a href="#">Data Modeling in Power BI by Microsoft</a></li> 
+      <li><a href="#">Extract, Transform and Load Data in Power BI by Microsoft</a></li> 
+      <li><a href="#">Harnessing the Power of Data with Power BI by Microsoft</a></li> 
+      <li><a href="#">Preparing Data for Analysis with Microsoft Excel by Microsoft</a></li> 
+      <li><a href="#">Intro to Snowflake for Devs, Data Scientists, Data Engineers by Snowflake</a></li> 
+      <li><a href="#">AWS Fundamentals Specialization by AWS</a></li> 
+      <li><a href="#">Migrating to the AWS Cloud by AWS</a></li> 
+      <li><a href="#">AWS Cloud Technical Essentials by AWS</a></li> 
+      <li><a href="#">Introduction to Machine Learning on AWS by AWS</a></li> 
+      <li><a href="#">Introduction to Big Data with Spark and Hadoop by IBM</a></li> 
+      <li><a href="#">Operating Systems and You Becoming a Power User by Google</a></li> 
+      <li><a href="#">Alteryx for Beginners by Packt</a></li>  
+  </ul>
+
+
+
+        
 </ul>
